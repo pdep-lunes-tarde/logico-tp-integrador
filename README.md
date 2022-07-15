@@ -7,6 +7,10 @@
 - Ayelen Garcia (@ayelenMacarena)
 - Federico Romero (@fecheromero)
 
+## Fecha de entrega
+
+08/08/2022
+
 ## Pre-requisitos
 
 Tener instalado [prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/blob/master/pages/prolog/entorno.md).
