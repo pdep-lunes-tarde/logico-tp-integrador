@@ -22,7 +22,8 @@ Tener instalado [prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/
 
 ## El enunciado
 
-Eish of Pdep
+**Eish of Pdep**
+
 https://docs.google.com/document/d/12Hl9Xr38pQeTUIFBn1PtRjuzb-sqYOfvMY-IbFMJT1U/edit?usp=sharing 
 
 --------------------------
