@@ -4,11 +4,9 @@
 
 **Equipo:** 
 
-## Fechas de entrega
+## Fecha de entrega
 
-Primera entrega: 05/08/2024
-
-Segunda entrega: 12/08/2024
+18 de agosto.
 
 ## Pre-requisitos
 
@@ -22,9 +20,7 @@ Tener instalado [prolog](https://github.com/pdep-utn/enunciados-miercoles-noche/
 
 ## El enunciado
 
-**Eish of Pdep**
-
-https://docs.google.com/document/d/12Hl9Xr38pQeTUIFBn1PtRjuzb-sqYOfvMY-IbFMJT1U/edit?usp=sharing 
+https://docs.google.com/document/d/1W4PXy2XUbJgAIltg_haj5po25wJu9r-hPQsidp14T2I/edit?usp=sharing
 
 --------------------------
 
